@@ -5,5 +5,5 @@
     <string name="perceived_strength">Perceived Strength</string>
 
     <!-- Number of people who reported perceived strength for an earthquake [CHAR LIMIT=NONE] -->
-    <string name="num_people_felt_it"><xliff:g id="number" example="10">%s</xliff:g> people felt it</string>
+    <string name="num_people_felt_it"><xliff:g example="10" id="number">%s</xliff:g> people felt it</string>
 </resources>
