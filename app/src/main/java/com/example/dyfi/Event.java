@@ -1,7 +1,7 @@
 package com.example.dyfi;
 
 /**
-        * {@Event} represents an earthquake event.
+        * @Event represents an earthquake event.
         */
 public class Event {
 
